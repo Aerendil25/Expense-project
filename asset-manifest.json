@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Expense-project/static/css/main.20ea57a4.css",
+    "main.js": "/Expense-project/static/js/main.57edc0c1.js",
+    "static/js/787.afd34582.chunk.js": "/Expense-project/static/js/787.afd34582.chunk.js",
+    "static/media/nick-chong-N__BnvQ_w18-unsplash.jpeg": "/Expense-project/static/media/nick-chong-N__BnvQ_w18-unsplash.d57c6f5f9798b0b806e5.jpeg",
+    "index.html": "/Expense-project/index.html",
+    "main.20ea57a4.css.map": "/Expense-project/static/css/main.20ea57a4.css.map",
+    "main.57edc0c1.js.map": "/Expense-project/static/js/main.57edc0c1.js.map",
+    "787.afd34582.chunk.js.map": "/Expense-project/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ea57a4.css",
+    "static/js/main.57edc0c1.js"
+  ]
+}
